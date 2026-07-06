@@ -1,0 +1,54 @@
+{
+  "node": {
+    "3e2f2682f2329edeeebbdeaea82594d3f1111906": {
+      "workers": {
+        "app/perfil/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpedro%5C%5COneDrive%5C%5CDocumentos%5C%5CDownloads%5C%5Ccardlab-corrigido-v3%5C%5Capp%5C%5Cperfil%5C%5Cactions.ts%22%2C%5B%22updateProfileAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/perfil/page": "action-browser"
+      }
+    },
+    "462c6fa65a7a54ee3d90ae71a6130fc15b4e5428": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpedro%5C%5COneDrive%5C%5CDocumentos%5C%5CDownloads%5C%5Ccardlab-corrigido-v3%5C%5Capp%5C%5Cdashboard%5C%5Cactions.ts%22%2C%5B%22deleteAuctionAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "a4e9b1e38cfa67c5af7aa57d2dda1a5f846f4d84": {
+      "workers": {
+        "app/dashboard/novo/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpedro%5C%5COneDrive%5C%5CDocumentos%5C%5CDownloads%5C%5Ccardlab-corrigido-v3%5C%5Capp%5C%5Cdashboard%5C%5Cnovo%5C%5Cactions.ts%22%2C%5B%22createAuctionAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/novo/page": "action-browser"
+      }
+    },
+    "9f0d001db70f3371daa049e34cea9cd5ca6fbaf5": {
+      "workers": {
+        "app/dashboard/editar/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpedro%5C%5COneDrive%5C%5CDocumentos%5C%5CDownloads%5C%5Ccardlab-corrigido-v3%5C%5Capp%5C%5Cdashboard%5C%5Ceditar%5C%5C%5Bid%5D%5C%5Cactions.ts%22%2C%5B%22updateAuctionAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/editar/[id]/page": "action-browser"
+      }
+    },
+    "9cbb7343fba5618f7908bdf6cdefd5d4af286493": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpedro%5C%5COneDrive%5C%5CDocumentos%5C%5CDownloads%5C%5Ccardlab-corrigido-v3%5C%5Capp%5C%5Clogin%5C%5Cactions.ts%22%2C%5B%22signInAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "0fb5f48faea8732753d5e53a1520b5218afe8b74": {
+      "workers": {
+        "app/cadastro/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cpedro%5C%5COneDrive%5C%5CDocumentos%5C%5CDownloads%5C%5Ccardlab-corrigido-v3%5C%5Capp%5C%5Ccadastro%5C%5Cactions.ts%22%2C%5B%22signUpAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cadastro/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "GU5eNTCgVCc/7NrzJKciY4HZbcyYB1D1SCzlL7HWWKg="
+}
